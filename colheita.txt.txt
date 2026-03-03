@@ -1,1 +1,0 @@
-print("Sistema de monitoramento de safra v1.0")
